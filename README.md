@@ -8,12 +8,15 @@ Incluye una interfaz gráfica desarrollada con `customtkinter` para explorar vis
 ## 📁 Estructura del proyecto
 
 ```
-├── datos/                  # Archivos CSV con datos de usuarios, canciones y escuchas
-├── img/                    # Logo de la aplicación
-├── montar_bd_completa.py   # Script para crear keyspace, tablas y cargar datos
-├── spotify_test_GUI.py     # Interfaz gráfica para realizar consultas OLAP
-├── consultas_OLAP.py       # Módulo con consultas optimizadas
-├── requirements.txt        # Dependencias del proyecto
+├── datos/                           # Carpeta con archivos de datos y script de carga
+│   ├── usuarios.csv
+│   ├── canciones.csv
+│   ├── escuchas.csv
+│   ├── cargar_datos_cassandra.py   # Script para crear keyspace, tablas y cargar datos
+├── logo.png                         # Logo de la aplicación
+├── spotify_test_GUI.py              # Interfaz gráfica para realizar consultas OLAP
+├── consultas_OLAP.py                # Módulo con consultas optimizadas
+├── requirements.txt                 # Dependencias del proyecto
 ```
 
 ---
@@ -69,7 +72,7 @@ python spotify_test_GUI.py
 
 ## 📷 Vista Previa
 
-![Logo](img/logo.png)
+![Logo](logo.png)
 
 ---
 
