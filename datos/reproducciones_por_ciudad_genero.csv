@@ -1,0 +1,212 @@
+ciudad,genero,cantidad_reproducciones
+Barquisimeto,R&B,2
+Barquisimeto,Reggaeton,1
+Barquisimeto,Rock,4
+Barquisimeto,Bachata,1
+Barquisimeto,Trap,1
+Barquisimeto,Urbano,1
+Barquisimeto,Pop,2
+Barranquilla,Reggaeton,2
+Barranquilla,R&B,2
+Barranquilla,Urbano,1
+Barranquilla,Rock,1
+Barranquilla,Trap,1
+Barranquilla,Pop,1
+Belo Horizonte,Urbano,5
+Belo Horizonte,Reggaeton,6
+Belo Horizonte,Bachata,4
+Belo Horizonte,Rock,9
+Belo Horizonte,R&B,5
+Belo Horizonte,Pop,3
+Belo Horizonte,Trap,1
+Bogota,Pop,9
+Bogota,Rock,7
+Bogota,Reggaeton,4
+Bogota,Urbano,6
+Bogota,Bachata,5
+Bogota,R&B,1
+Bogota,Trap,1
+Bogota,Grunge,1
+Brasilia,Urbano,4
+Brasilia,Pop,3
+Brasilia,Trap,2
+Brasilia,Rock,3
+Brasilia,Grunge,1
+Brasilia,Reggaeton,1
+Brasilia,R&B,1
+Bucaramanga,Urbano,2
+Bucaramanga,Reggaeton,2
+Bucaramanga,Rock,4
+Bucaramanga,Trap,3
+Bucaramanga,Pop,1
+Bucaramanga,R&B,1
+Bucaramanga,Bachata,1
+Buenos Aires,Trap,2
+Buenos Aires,R&B,3
+Buenos Aires,Rock,2
+Buenos Aires,Urbano,1
+Buenos Aires,Pop,1
+Buenos Aires,Bachata,1
+Buenos Aires,Reggaeton,1
+Cali,Pop,3
+Cali,Rock,5
+Cali,Bachata,1
+Caracas,Rock,5
+Caracas,Grunge,1
+Caracas,Bachata,2
+Caracas,Trap,1
+Caracas,R&B,1
+Caracas,Reggaeton,1
+Caracas,Pop,1
+Caracas,Urbano,2
+Cartagena,Rock,4
+Cartagena,Pop,2
+Cartagena,Urbano,2
+Cartagena,Reggaeton,1
+Ciudad de Mexico,R&B,3
+Ciudad de Mexico,Bachata,3
+Ciudad de Mexico,Trap,2
+Ciudad de Mexico,Reggaeton,3
+Ciudad de Mexico,Rock,2
+Ciudad de Mexico,Pop,3
+Ciudad Guayana,Trap,1
+Ciudad Guayana,Pop,3
+Ciudad Guayana,Rock,4
+Ciudad Guayana,Bachata,1
+Ciudad Guayana,Reggaeton,1
+Ciudad Juarez,Reggaeton,3
+Ciudad Juarez,R&B,1
+Ciudad Juarez,Pop,1
+Ciudad Juarez,Rock,1
+Fortaleza,Reggaeton,4
+Fortaleza,Bachata,4
+Fortaleza,Rock,2
+Fortaleza,Pop,1
+Fortaleza,Grunge,1
+Fortaleza,R&B,1
+Fortaleza,Urbano,1
+Guadalajara,Rock,2
+Guadalajara,Reggaeton,4
+Guadalajara,Pop,4
+Guadalajara,Bachata,3
+Guadalajara,R&B,3
+Guadalajara,Urbano,3
+Guadalajara,Trap,1
+Higuey,Bachata,2
+Higuey,Urbano,3
+Higuey,Rock,3
+Higuey,Pop,3
+Higuey,Trap,3
+Higuey,Reggaeton,2
+La Romana,Urbano,4
+La Romana,Rock,7
+La Romana,Bachata,2
+La Romana,Reggaeton,2
+La Romana,Pop,3
+La Romana,Grunge,1
+La Romana,R&B,2
+La Romana,Trap,1
+Leon,Bachata,1
+Leon,Pop,1
+Leon,Rock,2
+Leon,Reggaeton,1
+Leon,Trap,1
+Manaus,Trap,3
+Manaus,Pop,2
+Mar del Plata,R&B,1
+Mar del Plata,Reggaeton,1
+Mar del Plata,Pop,1
+Mar del Plata,Rock,1
+Maracaibo,Rock,6
+Maracaibo,Urbano,4
+Maracaibo,Reggaeton,4
+Maracaibo,Pop,4
+Maracaibo,Trap,5
+Maracaibo,R&B,5
+Maracaibo,Bachata,3
+Medellin,Rock,2
+Medellin,Pop,1
+Mendoza,Trap,1
+Mendoza,Bachata,1
+Mendoza,R&B,1
+Mendoza,Pop,4
+Mendoza,Reggaeton,1
+Merida,R&B,1
+Merida,Rock,4
+Merida,Trap,3
+Merida,Pop,1
+Merida,Urbano,3
+Merida,Bachata,1
+Merida,Reggaeton,1
+Mexico DF,Rock,4
+Mexico DF,Reggaeton,1
+Mexico DF,Bachata,1
+Mexico DF,Urbano,1
+Monterrey,Pop,2
+Monterrey,Bachata,1
+Monterrey,R&B,2
+Monterrey,Rock,3
+Pereira,Rock,2
+Pereira,Urbano,7
+Pereira,Reggaeton,5
+Pereira,Pop,3
+Pereira,R&B,1
+Pereira,Bachata,5
+Pereira,Trap,2
+Puebla,Urbano,1
+Puebla,Reggaeton,3
+Puebla,R&B,1
+Puebla,Pop,2
+Puebla,Bachata,1
+Puebla,Rock,1
+Puerto La Cruz,Rock,1
+Puerto La Cruz,Pop,1
+Puerto Plata,Pop,3
+Puerto Plata,Bachata,2
+Puerto Plata,Rock,2
+Puerto Plata,R&B,1
+Rio de Janeiro,Urbano,7
+Rio de Janeiro,Rock,3
+Rio de Janeiro,Trap,3
+Rio de Janeiro,R&B,5
+Rio de Janeiro,Reggaeton,5
+Rio de Janeiro,Pop,4
+Rio de Janeiro,Bachata,1
+Rosario,Rock,1
+Rosario,Bachata,1
+Rosario,R&B,1
+Salta,Rock,1
+Salta,Reggaeton,1
+Salta,R&B,1
+Salvador,Rock,5
+Salvador,Trap,2
+Salvador,Bachata,4
+Salvador,Pop,3
+Salvador,R&B,2
+San Cristobal,R&B,1
+San Cristobal,Pop,2
+San Cristobal,Rock,1
+San Cristobal,Urbano,2
+Santiago de los Caballeros,Rock,2
+Santiago de los Caballeros,Trap,1
+Santiago de los Caballeros,Bachata,1
+Santo Domingo,Rock,2
+Santo Domingo,Reggaeton,2
+Santo Domingo,R&B,1
+Santo Domingo,Trap,1
+Sao Paulo,Bachata,3
+Sao Paulo,Trap,4
+Sao Paulo,Rock,2
+Sao Paulo,Pop,2
+Sao Paulo,Reggaeton,3
+Tijuana,Pop,3
+Tijuana,Rock,1
+Tijuana,Trap,1
+Valencia,Urbano,5
+Valencia,Pop,2
+Valencia,Reggaeton,6
+Valencia,Bachata,5
+Valencia,R&B,3
+Valencia,Rock,4
+Valencia,Trap,4
+Valencia,Grunge,1
