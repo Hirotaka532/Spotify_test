@@ -55,7 +55,7 @@ Ejecuta el siguiente script para:
 - Cargar los datos desde los archivos CSV
 
 ```bash
-python montar_bd_completa.py
+python cargar_datos_cassandra.py
 ```
 
 ---
