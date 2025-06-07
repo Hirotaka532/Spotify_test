@@ -80,4 +80,4 @@ python spotify_test_GUI.py
 
 Proyecto desarrollado para la asignatura **Sistemas de Bases de Datos II**  
 Universidad Nacional Experimental de Guayana – Ingeniería Informática  
-Autores: *[tu nombre y/o grupo]*  
+Autores: *[Cesar Villarroel, Miguel Linares y Aaron Sánchez]*  
